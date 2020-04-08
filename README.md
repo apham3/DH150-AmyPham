@@ -14,7 +14,7 @@ The Superior Court of California: County of Orange website is the main site for 
 <img src="./oc-court-screenshot.png"> 
 
 ## Heuristic Evaluation: Severity Scale 
-1: Aesthetic/Cosmetic Problem - may be fixed, if times and circumstances allow 
+1: Aesthetic/Cosmetic Problem - may be fixed, if times and circumstances allow
 2: Minor Usability Problem - should be fixed 
 3: Major Usability Problem - top priority, must be fixed 
 
