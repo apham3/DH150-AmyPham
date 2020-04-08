@@ -98,7 +98,7 @@ Help and documentation may be necessary to help the user navigate the system.
 
 • Rating (3): The FAQ of the website does not allow the user to specifically ask questions or to narrow down the question search. There are only prewritten questions and no option to further explore for help. 
 
-<img src="./faq.png"> 
+<img src="./faq-fe.png"> 
 
 ## Heuristic Evaluation - Website 2: The Superior Court of California: County of Orange 
 ### 1. Visibility of System Status 
@@ -106,23 +106,28 @@ The visibility of system status keeps the users informed about what is going on 
 
 • When hovering over links, there is a change within the text, such as highlighting or underlining. This allows the users to know that they are successfully interaction with the system. However, these changes with the links are not consistent as some links are being highlighted while others are not. This issue is mentioned in 4. Consistency and Standards. 
 
+<img src="./links-oc.png"> 
+
 ### 2. Match Between Systems and The Real World 
 The system should refect real world conventions, matching the digital space to the physical space. 
 
 • Rating (2): The addition of icons would be helpful to navigate the website as there is so much text and very little imagery. These icons could help users recognize various topics. 
-IMAGE 
+
+<img src="./need-icons-oc.png"> 
 
 ### 3. User Control and Freedom 
 This allows users to easily exit or back out of an action on the website without extra trouble. 
 
 • Rating (2): When opening up a tab on the website, you cannot reclose the tab unless you click on another tab. This does not allow the user to freely open and close options. This may be frustrating as the information on these tabs take up a lot of space on the website and makes it difficult to scroll and look for other information with so much text in the way, yet it is unable to close. 
 
+<img src="./closetab-oc.png"> 
+
 ### 4. Consistency and Standards 
 Specific words, actions, and symbols should mean the same thing. 
 
-• Rating (3): When hovering over links, there is an unconsistent visibility status shown. For some links, the text will be highlighted when hovered while in other cases, the links are underlined. This could be confusing for users when two different actions are shown; to make this better, there should be one consistent styling for hovering over links. 
+• Rating (3): When hovering over links, there is an inconsistent visibility status shown. For some links, the text will be highlighted when hovered while in other cases, the links are underlined. This could be confusing for users when two different actions are shown; to make this better, there should be one consistent styling for hovering over links. 
 
-IMAGE
+<img src="./.png"> 
 
 ### 5. Error Prevention 
 Design prevents prevents problems from occurring. 
