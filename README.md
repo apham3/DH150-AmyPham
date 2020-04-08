@@ -5,12 +5,14 @@ Governmental departments and public service organizations are created to help ev
 
 ## Website 1: Fuel Economy 
 Link: https://fueleconomy.gov/
+
 The Fuel Economy website has a plethora of information and reources. However, when entering the website for the first time, the home page seems to be overwhelmed with links and a lot of text. Here are a few of the main UX issues that could be improved for the website: overwhelming amount of text, unclear titles, unclear purposes for website features, and and so forth. 
 
 <img src="./fuel-economy-screenshot.png">
 
 ## Website 2: The Superior Court of California: County of Orange 
 Link: https://www.occourts.org/
+
 The Superior Court of California: County of Orange website has many features, such as self-help, forms and filing, jury services, etc. The main home page of the website seems to be overwhelmed with information with multiple items being bolded or marked in a different color to be more important, but there's multiple items that are marked in this manner, which is confusing. Here are a few of the main UX issues that could be improved for the website: overwhelming amount of text, consistency, pixelated text (difficult on the eyes), etc. 
 
 <img src="./oc-court-screenshot.png">  
