@@ -27,13 +27,17 @@ The Superior Court of California: County of Orange website has many features, su
 The visibility of system status keeps the users informed about what is going on with the website. 
 
 • Rating (3): When hovering over the navigation bar, the links turn to a different color of gray, but it is not easily visible. By making it more visible, users will know that they are interacting with the page. 
-IMAGE 
+
+<img src="./links-fe.png"> 
 
 ### 2. Match Between Systems and The Real World 
 The system should refect real world conventions, matching the digital space to the physical space. 
 
 • The website includes images and icons that reflect the real world. This is helpful to users if they are not familar with specific terms, but are able to recognize the images or icons. 
 IMAGE 
+
+
+<img src="./images-fe.png"> 
 
 ### 3. User Control and Freedom 
 This allows users to easily exit or back out of an action on the website without extra trouble. 
@@ -44,18 +48,26 @@ This allows users to easily exit or back out of an action on the website without
 Specific words, actions, and symbols should mean the same thing. 
 
 • Rating (2): Throughout the website, fuel, gas, and electricity are used interchangeably. However, most people refer to the gas in their car as just gas, not fuel. The changes in vocabulary can be difficult for the lay person and it should be more defined throughout the website. 
+
+<img src="./wording-fe.png"> 
+
 • Rating (2): Additionally, half of the blue title links on the home page are links while the other half are static. These should not look the same because a user may go to click these titles, but nothing happens for the static ones. This may be confusing for the user as they are expecting it to be a link. 
+
+<img src="./homelinks-fe.png"> 
 
 ### 5. Error Prevention 
 Design prevents prevents problems from occurring. 
 
 • Rating (2): When typing an entry into the search bar, if the entry is not the exact spelling or phrase found on the website, the website will just return 0 results and does not provide any help to avoid such errors. The website can help reduce these errors by providing common search terms, autocorrect, and so forth. 
-IMAGE 
+
+<img src="./search-fe.png"> 
 
 ### 6. Recognition Rather Than Recall 
 By making options, actions, and objects more visible, the system is easing the user's memory load. 
 
 • Rating (2): For many of the pages, there is a navigation bar on the right side of the page that tells the users what content is in the section, allowing them to easily navigate towards specific topics; however, this sidebar of content does not move with the user as they scroll, forcing the user to scroll up to navigate to a different section and try to remember all the sections of the page. 
+
+<img src="./.png"> 
 
 • Rating (2): The main header with navigation links is not visible when users scroll down the page. This forces the users to continuously scroll up if they are specifically looking for a new page. 
 
