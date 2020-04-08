@@ -19,7 +19,7 @@ The Superior Court of California: County of Orange website is the main site for 
 3: 
 
 ## Heuristic Evaluation - Website 1: Fuel Economy 
-### 1. Visibility of System Status 
+### 1.Visibility of System Status 
 
 ### 2.Match Between Systems and The Real World 
 
@@ -29,35 +29,35 @@ The Superior Court of California: County of Orange website is the main site for 
 
 ### 5. 
 
-## 6. 
+### 6. 
 
-## 7. 
+### 7. 
 
-## 8. 
+### 8. 
 
-## 9. 
+### 9. 
 
-## 10. 
+### 10. 
 
 ## Heuristic Evaluation - Website 2: The Superior Court of California: County of Orange 
-## 1. Visibility of System Status 
+### 1.Visibility of System Status 
 
-## 2.Match Between Systems and The Real World 
+### 2.Match Between Systems and The Real World 
 
-## 3. 
+### 3.
 
-## 4. 
+### 4. 
 
-## 5. 
+### 5. 
 
-## 6. 
+### 6. 
 
-## 7. 
+### 7. 
 
-## 8. 
+### 8. 
 
-## 9. 
+### 9. 
 
-## 10. 
+### 10. 
 
 
