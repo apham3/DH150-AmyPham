@@ -38,10 +38,13 @@ IMAGE
 ### 3. User Control and Freedom 
 This allows users to easily exit or back out of an action on the website without extra trouble. 
 
-•
+• When searching for types of cars through various filters, users can easily clear the entire selection if a mistake has been made. 
 
 ### 4. Consistency and Standards 
 Specific words, actions, and symbols should mean the same thing. 
+
+• Rating (2): Throughout the website, fuel, gas, and electricity are used interchangeably. However, most people refer to the gas in their car as just gas, not fuel. The changes in vocabulary can be difficult for the lay person and it should be more defined throughout the website. 
+• Rating (2): Additionally, half of the blue title links on the home page are links while the other half are static. These should not look the same because a user may go to click these titles, but nothing happens for the static ones. This may be confusing for the user as they are expecting it to be a link. 
 
 ### 5. Error Prevention 
 Design prevents prevents problems from occurring. 
@@ -50,12 +53,21 @@ Design prevents prevents problems from occurring.
 IMAGE 
 
 ### 6. Recognition Rather Than Recall 
+By making options, actions, and objects more visible, the system is easing the user's memory load. 
+
+• Rating (2): For many of the pages, there is a navigation bar on the right side of the page that tells the users what content is in the section, allowing them to easily navigate towards specific topics; however, this sidebar of content does not move with the user as they scroll, forcing the user to scroll up to navigate to a different section and try to remember all the sections of the page. 
+
+• Rating (2): The main header with navigation links is not visible when users scroll down the page. This forces the users to continuously scroll up if they are specifically looking for a new page. 
 
 ### 7. Flexibility and Efficiency of Use 
+This allows users to tailor frequent actions or to accelerate the interaction with the website. 
+
+• The Power Search option of the website allows more advanced users to narrow down the search options. Additionally, since it allows users to choose as many or as few features, more beginner users can put in the information that they only know and still get results. This allows more advanced users to more efficiently use the site, but still user-friendly enough to allow new users utilize the search option. 
 
 ### 8. Aesthetic and Minimalist Design 
 Design should only include necessary and relevant information. 
 
+• Rating (3): There is a large amount of links on the home page. This list should be minimized to highlight the most relevant resources or services that the website offers, so that users are not overwhelmed with information. 
 
 ### 9. Help Users Recognize, Diagnose, and Recover from Errors
 The website's error messages should be in plain language, understandable, and with steps to further take. 
@@ -65,6 +77,8 @@ IMAGE
 
 ### 10. Help and Documentation
 Help and documentation may be necessary to help the user navigate the system. 
+
+• Rating (3): The FAQ of the website does not allow the user to specifically ask questions or to narrow down the question search. There are only prewritten questions and no option to further explore for help. 
 
 ## Heuristic Evaluation - Website 2: The Superior Court of California: County of Orange 
 ### 1. Visibility of System Status 
@@ -78,12 +92,22 @@ The system should refect real world conventions, matching the digital space to t
 This allows users to easily exit or back out of an action on the website without extra trouble. 
 
 ### 4. Consistency and Standards 
+Specific words, actions, and symbols should mean the same thing. 
+
+• Rating (2): When hovering over links, there is an unconsistent visibility status shown. For some links, the text will be highlighted when hovered while in other cases, the links are underlined. This could be confusing for users when two different actions are shown; to make this better, there should be one consistent styling for hovering over links. 
+
+IMAGE
 
 ### 5. Error Prevention 
+Design prevents prevents problems from occurring. 
 
-### 6. Recognition Rather Than Recall 
+### 6. Recognition Rather Than Recall
+By making options, actions, and objects more visible, the system is easing the user's memory load. 
+
 
 ### 7. Flexibility and Efficiency of Use 
+This allows users to tailor frequent actions or to accelerate the interaction with the website. 
+
 
 ### 8. Aesthetic and Minimalist Design 
 Design should only include necessary and relevant information. 
