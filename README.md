@@ -67,7 +67,7 @@ By making options, actions, and objects more visible, the system is easing the u
 
 • Rating (2): For many of the pages, there is a navigation bar on the right side of the page that tells the users what content is in the section, allowing them to easily navigate towards specific topics; however, this sidebar of content does not move with the user as they scroll, forcing the user to scroll up to navigate to a different section and try to remember all the sections of the page. 
 
-<img src="./.png"> 
+<img src="./sidebar-fe.png"> 
 
 • Rating (2): The main header with navigation links is not visible when users scroll down the page. This forces the users to continuously scroll up if they are specifically looking for a new page. 
 
@@ -76,10 +76,14 @@ This allows users to tailor frequent actions or to accelerate the interaction wi
 
 • The Power Search option of the website allows more advanced users to narrow down the search options. Additionally, since it allows users to choose as many or as few features, more beginner users can put in the information that they only know and still get results. This allows more advanced users to more efficiently use the site, but still user-friendly enough to allow new users utilize the search option. 
 
+<img src="./powersearch-fe.png"> 
+
 ### 8. Aesthetic and Minimalist Design 
 Design should only include necessary and relevant information. 
 
 • Rating (3): There is a large amount of links on the home page. This list should be minimized to highlight the most relevant resources or services that the website offers, so that users are not overwhelmed with information. 
+
+<img src="./text-fe.png"> 
 
 ### 9. Help Users Recognize, Diagnose, and Recover from Errors
 The website's error messages should be in plain language, understandable, and with steps to further take. 
@@ -87,10 +91,14 @@ The website's error messages should be in plain language, understandable, and wi
 • Rating (2): When random text is included in the URL, there is a 404 Not Found error page. The error page does well in the fact that it states possible reason why the page is wrong, but it does not indicate further steps to take. We could suggest for users to return to the home page or redirect them to a help page. 
 IMAGE 
 
+<img src="./404error.png"> 
+
 ### 10. Help and Documentation
 Help and documentation may be necessary to help the user navigate the system. 
 
 • Rating (3): The FAQ of the website does not allow the user to specifically ask questions or to narrow down the question search. There are only prewritten questions and no option to further explore for help. 
+
+<img src="./faq.png"> 
 
 ## Heuristic Evaluation - Website 2: The Superior Court of California: County of Orange 
 ### 1. Visibility of System Status 
