@@ -5,7 +5,7 @@ Although governmental departments and public service organizations are created t
 
 ## Website 1: Fuel Economy 
 Link: https://fueleconomy.gov/
-
+<img src=" ./fuel-economy-screenshot.png">
 
 ## Website 2: The Superior Court of California: County of Orange 
 Link: https://www.occourts.org/
