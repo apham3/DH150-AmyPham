@@ -127,41 +127,47 @@ Specific words, actions, and symbols should mean the same thing.
 
 • Rating (3): When hovering over links, there is an inconsistent visibility status shown. For some links, the text will be highlighted when hovered while in other cases, the links are underlined. This could be confusing for users when two different actions are shown; to make this better, there should be one consistent styling for hovering over links. 
 
-<img src="./.png"> 
+<img src="./underline-link-oc.png">
+<img src="./links-oc.png"> 
 
 ### 5. Error Prevention 
 Design prevents prevents problems from occurring. 
 
 • Rating (2): When typing an entry into the search bar, if the entry is not the exact spelling or phrase found on the website, the website will just return "No Results" and does not provide any help to avoid such errors. The website can help reduce these errors by providing common search terms, autocorrect, and so forth. 
-IMAGE 
+
+<img src="./search-oc.png"> 
 
 ### 6. Recognition Rather Than Recall
 By making options, actions, and objects more visible, the system is easing the user's memory load. 
 
 • Regardless of what page the user clicks, the website shows the flow pages the user has been on. This allows the user to easily go back one page, two pages, the home page, or whichever else page. This allows the user to easily exit to a specific page without needing to remember which page it was as the past options show up on the screen. 
 
-IMAGE 
+<img src="./exit-oc.png">  
 
 ### 7. Flexibility and Efficiency of Use 
 This allows users to tailor frequent actions or to accelerate the interaction with the website. 
 
 • Those who are familiar with the site and know all their information can easily just input the case number and quickly find their information. This allows them to use less time to narrow down their search. There is an option for more beginner users who don't know all their information to filter and find their case. 
 
-IMAGE
+<img src="./case-oc.png"> 
 
 ### 8. Aesthetic and Minimalist Design 
 Design should only include necessary and relevant information. 
 
 • Rating (3): The website has an overwhelming amount of text in various colors, fonts, and design. It makes the entire website very distracting and difficult to track down the most relevant information to the user. 
-IMAGE
+
+<img src="./8-oc.png"> 
+
 • Rating (1): The website has pixelated titles, making it difficult to read the information. 
-IMAGE 
+
+<img src="./pixel-text-oc.png"> 
 
 ### 9. Help Users Recognize, Diagnose, and Recover from Errors
 The website's error messages should be in plain language, understandable, and with steps to further take. 
 
 • Rating (3): When random text is included in the URL, there is a 404 Not Found error page. The error page does well in the fact that it states possible reason why the page is wrong, but it does not indicate further steps to take. We could suggest for users to return to the home page or redirect them to a help page. 
-IMAGE 
+
+<img src="./404error.png"> 
 
 ### 10. Help and Documentation
 Help and documentation may be necessary to help the user navigate the system. 
