@@ -4,6 +4,7 @@
 ### Introduction 
 Fuel Economy is the official U.S. government source for fuel economy information. The website is dedicated to helping consumers make informed fuel economy choices when purchasing vehicles and achieve the best fuel economy possible. 
 
+#### Some of the main usability issues I found in the heuristic evaluation:
 
 ### Methodology 
 
@@ -18,6 +19,9 @@ For this, I carried out two usability tests. For my first one, my survey had an 
 [UT #2 - Updated Version](https://drive.google.com/file/d/1pjJ3vGVtenwj2Uv2Y68tdhvuGrCXIjyg/view?usp=sharing)
 
 [UT #1](https://drive.google.com/file/d/1lk_N5WwROyxsyLbiwGQyWq31bfBDF0no/view?usp=sharing)
+
+### Reflection & Possible Improvements
+
 
 
 
