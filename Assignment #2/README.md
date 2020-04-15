@@ -9,7 +9,9 @@ The purpose of usability testing is gain more information and feedback on how to
 
 #### Some of the main usability issues I found in the heuristic evaluation to test:
 • Navigation bar is not apparent. From the heuristic evaluation, the navigation bar does not move with the user as they scroll and is not overall very apparent in the website's design. 
+
 • Overload of information on the home page, such as links and static text. This makes it overwhelming and confusing for users, especially first-time users. 
+
 • The FAQ/Help section has very limited questions for people to use and does not allow people to search up their own problems. We want to see if people will be able to easily see the search option and refer to the FAQ for help, if it is apparent enough on the website. 
 
 ### Methodology 
@@ -29,7 +31,3 @@ For this, I carried out two pilot usability tests. For my first one, my survey h
 
 ### Reflection & Possible Improvements
 With the information from the first and second UT, I was able to gain valuable insight about the website and even the survey. Although the first UT could have gone more smoothly, it allowed me to see that the survey was flawed, which may have influenced the user's overall experience with the Fuel Economy website. In addition to gaining insight on the website, it is just as imperative to have a well-designed survey that does not influence the participant. While the participants were doing their tasks and voicing their thoughts, I was able to give more attention to details that I may have missed in my heuristic evaluation, such as the search icon not being apparent, the wording of the website to be confusing, and just overwhelming information on the home page, making it difficult and confusing for participants to find information that may have not been listed in the first few links. To improve future usability tests, I would make sure that the survey does not have any flaws or confusing word choice. Additionally, I would make sure to test from a range of people who may have more experience with cars and to users who may be first-time users of the website and new to cars. Overall, I think these iprovements will allow me to better assess the overall usability of the website for all audiences. 
-
-
-
-
