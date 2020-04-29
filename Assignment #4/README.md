@@ -25,18 +25,24 @@
 > In order to make informed fuel economy choices, the users would be researching different car makes and comparing them. They could also use various calculators to find more information. 
 
 #### Step 3: Research Methods 
-> sdfds why
+> **Participatory Observation and Participation through Card Sorting** were utilized for this project. 
+> **Particpatory observation** was used in this in order to directly speak and interact with someone in the target audience. They were able to answer questions about the context, but also be observed while looking online at the website and speaking or giving examples of other tools they would use for the same purpose as this project. 
+> **Participation through Card Sorting** was utilized in order to collaborate and find the proper design solutions. The website had many links that seemed to be confusing, especially for my Pilot UT; therefore, it was necessary to bring a new pair of eyes to the links and categories in order to intuitively group links and topics together. 
+> Within a **contextual inquiry**, it was possible to learn about the users in their own working environment. My participant was in their room at home with their normal personal/work laptop. This would be where they would msot likely carry out the activities. 
 
 ### Research & Contextual Inquiry/Activity
 **1. Contextual Inquiry Guide**
+
 Please find the script [here.](https://docs.google.com/document/d/1x0cQBcXMqS2MgKydhJJkIGrIwVGRp-uifiKzlYnPyHc/edit?usp=sharing) It contains the introduction, purpose, and questions. 
 
 **2. Card Sorting Activity** 
+
 Please find the link to the activity [here.](https://ows.io/os/5c7v4f4n)
 
 Click [here](https://drive.google.com/drive/folders/1VfBQ7aNGvWucREd8NNri20PDNRNf-wDf?usp=sharing) to see the results of the participant. 
 
 **3. User Data** 
+
 Please find the recording of the interview [here.](https://drive.google.com/file/d/1JZAkmsg6p2_Dt4AhY8BKIsLt6NdFx5c8/view?usp=sharing) 
 
 The transcription of the interview is linked [here.](https://docs.google.com/document/d/1BfSFcyaIz3mp4_93gi9Huvv2ew0M4AF0zqcbXyLTgBY/edit?usp=sharing) 
