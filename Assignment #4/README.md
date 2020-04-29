@@ -28,7 +28,8 @@
 > sdfds
 
 #### Research Materials 
-**1. Contextual Inquiry Guide **
+**1. Contextual Inquiry Guide**
+Please find the script [here.](https://docs.google.com/document/d/1x0cQBcXMqS2MgKydhJJkIGrIwVGRp-uifiKzlYnPyHc/edit?usp=sharing) It contains the introduction, purpose, and questions. 
 
 **2. Card Sorting Activity** 
 Please find the link to the activity [here.]
