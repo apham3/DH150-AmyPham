@@ -1,9 +1,9 @@
 # UX within the Public Sector 
 ## DH150 Assignment 04: Users in Context by Amy Pham 
 
-#### Introduction
+### Introduction
 
-### Step 1: Main Design Challenge 
+#### Step 1: Main Design Challenge 
 **What is the main activity your project would support the users?**
 > This project will mainly support the users in helping them make more informed choices about fuel economy, such as when purchasing a car or achieving the best fuel economy possible for their current vehicles. 
 
@@ -16,7 +16,7 @@
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
 > Through digital technology, users will not be limited by their sources of information. They could be able to compare different cars side by side without unequal sources or from different sources. Added functionality such as replicating a dealership experience may allow people to feel more encouraged to purchase a car and may help people better navigate the site and their experience.  
 
-### Step 2: Target Users 
+#### Step 2: Target Users 
 **What are the characteristics of users? (ex. demographics, preference, expertise)** 
 > For demographics, the target users are people of legal driving age who drive. Preferably, audiences with the ability to buy their own car or be able to influence the decision of someone purchase. In order to make this as accessible as possible and to reach and as many users as possible, they can have any range of knowledge about cars or fuel economy. 
 **Where would the users do that activity? (i.e., context of use)**
@@ -24,10 +24,10 @@
 **What would the users do to complete that activity? (e.g., goal, operation, method, action)**
 > In order to make informed fuel economy choices, the users would be researching different car makes and comparing them. They could also use various calculators to find more information. 
 
-### Step 3: Research Methods 
+#### Step 3: Research Methods 
 > sdfds why
 
-#### Research & Contextual Inquiry/Activity
+### Research & Contextual Inquiry/Activity
 **1. Contextual Inquiry Guide**
 Please find the script [here.](https://docs.google.com/document/d/1x0cQBcXMqS2MgKydhJJkIGrIwVGRp-uifiKzlYnPyHc/edit?usp=sharing) It contains the introduction, purpose, and questions. 
 
