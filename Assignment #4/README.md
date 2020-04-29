@@ -57,26 +57,21 @@ From this quote, I was able to better understand that this participant would dir
 
 **2. Importance of aesthetics (5:20)** 
 
-sjfkljflkjs
+Additionally, I was able to better understand the importance of aesthetics in design, even if it's on an informational website. Although the website's primary purpose was education, users need to be attracted to the site in order to better engage with the website. Otherwise, they may easily dislike the overall page and move to a different source. This could be a reason why this specific participant would opt to look for information on a brand's website. 
 
 > "It's not very attractive. It doesn't make me want to buy any of these cars. It's not selling me on anything."
 
 **3. The issue with too much information (6:15)** 
 
-fsdfsfs
+From the participant's experience, there was too much information to be digested on the first page, making it even more difficult to navigate the website. 
 
 > "There's a lot of information there... There's no one source of truth that you can go to there and you can only look at what's on the brand. And of course, that is a marketing site." 
 
 **4. The understanding of terminology (13:09)**
 
-sdfsdf
+In addition to the surplus amount of information, the terminology used on the website was not easy to understand for the participant. This sentiment was further reflected during the card-sorting activity for the main links on the website's homepage as the participant was frustrated on how to sort since she didn't understand what the terms meant. 
 
 > "It was very difficult because there was a lot of terminology I did not know."
 
 ### Overall Reflection & Lesson
-asjlfalskfjalfjka
-
-
-
-
- 
+Overall, I believe that the contextual inquiry was a good experience for the participant and me. I was able to gain more insight about the user's background with websites/applications with similar purposes in order to better understand their struggles. Unlike the pilot UT, there was a lot more freedom in the user's answers and actions; this allowed me to gain unbiased information. Although some of these same sentiments were reflected in the pilot UT, I was able to observe the importance of aesthetics and terminology on a website, not just the pure design interface or layout. For future purposes, I hope to be able to garner more participants for contextual inquiries and the card-sorting participationa activity in order to do some data analysis and gain more insight on patterns amongst users. 
