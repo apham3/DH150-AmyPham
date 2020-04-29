@@ -4,7 +4,7 @@
 ### Introduction
 
 #### Step 1: Main Design Challenge 
-**What is the main activity your project would support the users?**
+**• What is the main activity your project would support the users?**
 > This project will mainly support the users in helping them make more informed choices about fuel economy, such as when purchasing a car or achieving the best fuel economy possible for their current vehicles. 
 
 **What is the basic need involved for that activity?**
