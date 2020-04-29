@@ -33,19 +33,19 @@
 ### Research & Contextual Inquiry/Activity
 **1. Contextual Inquiry Guide**
 
-Please find the script [here.](https://docs.google.com/document/d/1x0cQBcXMqS2MgKydhJJkIGrIwVGRp-uifiKzlYnPyHc/edit?usp=sharing) It contains the introduction, purpose, and questions. 
+> Please find the script [here.](https://docs.google.com/document/d/1x0cQBcXMqS2MgKydhJJkIGrIwVGRp-uifiKzlYnPyHc/edit?usp=sharing) It contains the introduction, purpose, and questions. 
 
 **2. Card Sorting Activity** 
 
-Please find the link to the activity [here.](https://ows.io/os/5c7v4f4n)
+> Please find the link to the activity [here.](https://ows.io/os/5c7v4f4n)
 
-Click [here](https://drive.google.com/drive/folders/1VfBQ7aNGvWucREd8NNri20PDNRNf-wDf?usp=sharing) to see the results of the participant. 
+> Click [here](https://drive.google.com/drive/folders/1VfBQ7aNGvWucREd8NNri20PDNRNf-wDf?usp=sharing) to see the results of the participant. 
 
 **3. User Data** 
 
-Please find the recording of the interview [here.](https://drive.google.com/file/d/1JZAkmsg6p2_Dt4AhY8BKIsLt6NdFx5c8/view?usp=sharing) 
+> Please find the recording of the interview [here.](https://drive.google.com/file/d/1JZAkmsg6p2_Dt4AhY8BKIsLt6NdFx5c8/view?usp=sharing) 
 
-The transcription of the interview is linked [here.](https://docs.google.com/document/d/1BfSFcyaIz3mp4_93gi9Huvv2ew0M4AF0zqcbXyLTgBY/edit?usp=sharing) 
+> The transcription of the interview is linked [here.](https://docs.google.com/document/d/1BfSFcyaIz3mp4_93gi9Huvv2ew0M4AF0zqcbXyLTgBY/edit?usp=sharing) 
 
 ##### Insights & Quotes 
 **1. 
