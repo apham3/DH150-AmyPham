@@ -51,7 +51,7 @@
 #### Insights and Quotes 
 **1. How the user would usually find information (1:38)**
 
-    From this quote, I was able to better understand that this participant would directly go to the brand's website, even though the information there may be biased as a marketing ploy. 
+   From this quote, I was able to better understand that this participant would directly go to the brand's website, even though the information there may be biased as a marketing ploy. 
    
 > "Usually, there's a brand that I am interested in already. So I will go directly to that brand website and look through there to see a car that fits the class and the price point that I'm looking for."
 
