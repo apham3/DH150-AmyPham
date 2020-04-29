@@ -51,23 +51,27 @@
 #### Insights and Quotes 
 **1. How the user would usually find information (1:38)**
 
-   From this quote, I was able to better understand that this participant would directly go to the brand's website, even though the information there may be biased as a marketing ploy. 
+From this quote, I was able to better understand that this participant would directly go to the brand's website, even though the information there may be biased as a marketing ploy. 
    
 > "Usually, there's a brand that I am interested in already. So I will go directly to that brand website and look through there to see a car that fits the class and the price point that I'm looking for."
 
-   From this quote, I was able to better understand that this participant would directly go to the brand's website, even though the information there may be biased as a marketing ploy. 
-
 **2. Importance of aesthetics (5:20)** 
+
+sjfkljflkjs
+
 > "It's not very attractive. It doesn't make me want to buy any of these cars. It's not selling me on anything."
->
 
 **3. The issue with too much information (6:15)** 
+
+fsdfsfs
+
 > "There's a lot of information there... There's no one source of truth that you can go to there and you can only look at what's on the brand. And of course, that is a marketing site." 
-> 
 
 **4. The understanding of terminology (13:09)**
+
+sdfsdf
+
 > "It was very difficult because there was a lot of terminology I did not know."
-> 
 
 ### Overall Reflection & Lesson
 asjlfalskfjalfjka
