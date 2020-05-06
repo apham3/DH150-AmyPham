@@ -25,5 +25,5 @@
 <img src="./Empathy Map - Alice.png"> 
 
 ### Scenarios & Journey Maps
-
+#### Scenario 1
 
