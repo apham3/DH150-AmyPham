@@ -1,6 +1,8 @@
 # UX within the Public Sector 
 ## DH150 Assignment 05: User Personas & Scenarios by Amy Pham
 
+> The purpose of UX Storytelling is to be able to tell a story from the **user's perspective**. With this knowledge and multiple stories, a researcher will be able to better communicate for the audience. This allows you to live and breathe the users' world and to be able to rule out your own bias and focus on other users. 
+
 ### Features
 > 1: Minimize the amount of links or information on the main home page 
 
