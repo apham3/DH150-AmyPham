@@ -12,8 +12,10 @@
 
 #### Jason's User Persona & Empathy Map 
 <img src="./Persona - Jason.png"> 
+<img src="./Empathy Map - Jason.png"> 
 
 
 #### Alice's User Persona & Empathy Map 
 <img src="./Persona - Alice.png"> 
+<img src="./Empathy Map - Alice.png"> 
 
