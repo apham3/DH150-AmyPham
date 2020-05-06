@@ -6,7 +6,7 @@
 ### Personas 
 
 #### Sarah's User Persona & Empathy Map 
-
+<img src="./Persona - Sarah.png"> 
 
 #### Jason's User Persona & Empathy Map 
 
