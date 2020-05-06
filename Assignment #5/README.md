@@ -24,3 +24,6 @@
 <img src="./Persona - Alice.png"> 
 <img src="./Empathy Map - Alice.png"> 
 
+### Scenarios & Journey Maps
+
+
