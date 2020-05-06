@@ -39,6 +39,9 @@
 <img src="./Journey Maps - Jason.png"> 
 
 #### Scenario 3
+• Scenario: Alice is a full-time data analyst in New York City. However, due to her marriage and her age, she has been wanting to move to the suburbs and out of the busy city. Due to this move, Alice needs a new car to help her navigate the new community since she can't rely on public transportation like in New York City anymore. She hopes to easily find a clean list that will tell her exactly the top-rated cars of the year that is also a well-known or luxurious brand; if it happens to be environmentally-friendly, she hopes it will impress her friends and family. 
+
+• User Case: When searching up information about cars, she finds the Fuel Economy website. Although her initial wants don't have to do the environment, she realizes that since it's a .gov website, it must be somewhat reliable for information. Because of this, she continues onto the website. However, due to her lack of car knowledge and impatient mannerisms, she becomes frustrated with finding her list. To combat this, she goes to the FAQ/Help section that had just been updated. Here, she is able to directly search "Top Ranked Cars of 2019" and find results on where to find such lists on the website. Due to this new feature, she does not have to endlessly scroll and navigate around the page. After finding the list of the Top Ranked Cars, she decides to make a trip to town in order to purchase her new Tesla 3 Standard Range Plus. 
 <img src="./Journey Maps - Alice.png"> 
 
 
