@@ -7,6 +7,8 @@
 
 #### Sarah's User Persona & Empathy Map 
 <img src="./Persona - Sarah.png"> 
+<img src="./Empathy Map - Sarah.png"> 
+
 
 #### Jason's User Persona & Empathy Map 
 <img src="./Persona - Jason.png"> 
