@@ -31,3 +31,11 @@ Sarah, a full-time high school teacher and mother of two, is excited for her nex
 User Case: Sarah pulls up the Fuel Economy website and is instantly overwhelmed by the main home page. This home page has tons of links and buttons
 <img src="./Journey Maps - Sarah.png"> 
 
+#### Scenario 2 
+<img src="./Journey Maps - Jason.png"> 
+
+#### Scenario 3
+<img src="./Journey Maps - Alice.png"> 
+
+
+
