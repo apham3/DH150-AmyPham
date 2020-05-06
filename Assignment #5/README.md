@@ -1,7 +1,10 @@
 # UX within the Public Sector 
 ## DH150 Assignment 05: User Personas & Scenarios by Amy Pham
 
-### Features 
+### Features
+• Minimize the amount of links or information on the main home page 
+• Include a search feature in the FAQ/Help section so people can directly search key terms and questions 
+• Have better visibility of system status, such as highlighting buttons when hovered 
 
 ### Personas 
 
