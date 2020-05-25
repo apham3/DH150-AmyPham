@@ -26,5 +26,6 @@ feature in the FAQ/Help section so people can directly search key terms and ques
 **Wireflow**
 > Each task was completed in a different wireflow color. 
 <img src="./Wireflow Overview.JPG"> 
+
 Click [here](https://drive.google.com/open?id=1ZwKXYFgiKY9FmyXWXHseS2IBmkdqK6ER) to view the user's wireflow process. 
 
