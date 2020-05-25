@@ -18,5 +18,11 @@ The purpose of the low-fidelity prototype is to figure out exactly how a user wo
 feature in the FAQ/Help section so people can directly search key terms and questions**
 
 ### Wireframes
+Wireframe
+<img src="./Wireframe Overview.JPG">  
 
+Wireflow
+<img src="./Wireflow Overview.JPG">  
+
+Click [here](https://drive.google.com/open?id=1ZwKXYFgiKY9FmyXWXHseS2IBmkdqK6ER) to view the user's wireflow process. 
 
