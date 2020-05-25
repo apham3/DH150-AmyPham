@@ -24,7 +24,9 @@ Wireframe
 
 Wireflow
 
-<img src="./Wireflow Overview.png">  
+<img src="./Wireflow Overview.png"> 
+<img src="./fuel-economy-screenshot.png">
+
 
 Click [here](https://drive.google.com/open?id=1ZwKXYFgiKY9FmyXWXHseS2IBmkdqK6ER) to view the user's wireflow process. 
 
