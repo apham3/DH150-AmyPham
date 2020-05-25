@@ -13,17 +13,18 @@ The purpose of the low-fidelity prototype is to figure out exactly how a user wo
 > Through the user research, I noticed that the links on the website and dropdown menu when hovering were not apparent. Through this task from one of my user scenarios, their wll interactions with the navigation bar, links, and the overall Find a Car tool, which will be redesigned. 
 
 **2. Find the newest sporty car with the best MPG**
+>
 
 **3. Easily search for the top ranked cars of 2020**
 feature in the FAQ/Help section so people can directly search key terms and questions**
+>
 
 ### Wireframes
 **Wireframe**
 <img src="./Wireframe Overview.JPG">  
 
 **Wireflow**
+> Each task was completed in a different wireflow color. 
 <img src="./Wireflow Overview.JPG"> 
-
-
 Click [here](https://drive.google.com/open?id=1ZwKXYFgiKY9FmyXWXHseS2IBmkdqK6ER) to view the user's wireflow process. 
 
