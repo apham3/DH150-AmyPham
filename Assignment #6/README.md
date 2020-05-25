@@ -31,7 +31,7 @@ Click [here](https://drive.google.com/open?id=1ZwKXYFgiKY9FmyXWXHseS2IBmkdqK6ER)
 ### Reflection
 For the creation of the low-fidelity prototype, it was interesting to see how many different states and interactions the website would go through for a single task. Personally, since the original website did not show its system status well to the user, I really wanted to incopororate drop down menus and hovering as the main feature; however, this was difficult to prototype on paper for each hovering state. Additionally, although I wanted to make these links more apparent, I also didn't create page for all of these links since there are many on the site. 
 
-Specifically, for each task, I was able to see issues that the tester encountered: 
+Specifically, for each task, I was able to observe the user while also reflecting on their experience from testing:
 
 **1. Find info about a car with the best fuel economy**
 > From my prototype testing, I was able to learn that the groupings for the navigation bar titles were not intuitive. The user would have looked under "Find a Car" to look for the car with the most fuel economy rather than "Save Money and Fuel" as they guessed that would be for more articles and advice on how to save. For future prototyping, I would try to narrow down more specific tasks, rather than incorporating too mayn features and changes at once. 
