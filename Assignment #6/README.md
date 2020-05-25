@@ -19,9 +19,11 @@ feature in the FAQ/Help section so people can directly search key terms and ques
 
 ### Wireframes
 Wireframe
+
 <img src="./Wireframe Overview.jpg">  
 
 Wireflow
+
 <img src="./Wireflow Overview.jpg">  
 
 Click [here](https://drive.google.com/open?id=1ZwKXYFgiKY9FmyXWXHseS2IBmkdqK6ER) to view the user's wireflow process. 
